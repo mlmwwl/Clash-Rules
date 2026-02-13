@@ -1,13 +1,13 @@
 +.cms-twdigitalassets.com
 +.periscope.tv
-pscp.tv
-t.co
++.pscp.tv
++.t.co
 +.tellapart.com
 +.tweetdeck.com
 +.twimg.com
 +.twitpic.com
 +.twitter.biz
-twitter.com
++.twitter.com
 +.twitter.jp
 +.twitter.map.fastly.net
 +.twittercommunity.com
