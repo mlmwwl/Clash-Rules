@@ -504,6 +504,7 @@ gsp85-cn-ssl.ls.apple.com
 +.qiuwenbaike.cn
 +.qiuwen.cn
 +.zhongwen.wiki
++.duyaoss.com
 gspe19-cn-ssl.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
