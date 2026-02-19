@@ -2,3 +2,4 @@
 +.gstatic.com
 bag.itunes.apple.com
 +.mzstatic.com
++.googleapis.com
