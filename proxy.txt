@@ -1,3 +1,4 @@
 +.apple.com
 +.gstatic.com
 bag.itunes.apple.com
++.mzstatic.com
