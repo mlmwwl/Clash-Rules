@@ -506,6 +506,10 @@ gsp85-cn-ssl.ls.apple.com
 +.zhongwen.wiki
 +.duyaoss.com
 +.moltrglivrybhsmboavornux.com
++.ap4r.com
++.kwai.net
++.kwai.com
 gspe19-cn-ssl.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
+d3kzpv1r7sxwtv.cloudfront.net
