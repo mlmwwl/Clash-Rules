@@ -509,6 +509,9 @@ gsp85-cn-ssl.ls.apple.com
 +.ap4r.com
 +.kwai.net
 +.kwai.com
++.dola.com
++.ciciai.com
++.ciciaicdn.com
 gspe19-cn-ssl.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
