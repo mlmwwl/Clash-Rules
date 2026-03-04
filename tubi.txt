@@ -1,0 +1,6 @@
++.tubi.tv
++.tubitv.com
++.tubi.video
++.adrise.tv
++.tubi.io
++.branch.io
