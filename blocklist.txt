@@ -517,6 +517,7 @@ gsp85-cn-ssl.ls.apple.com
 +.uncyclopedia.tw
 +.volccdn.com
 +.kimi.com
++.shein.com
 gspe19-cn-ssl.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
