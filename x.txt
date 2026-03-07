@@ -21,3 +21,7 @@
 +.twvid.com
 +.vine.co
 +.x.com
++.x.ai
++.grok.com
++.featureassets.org
++.xai.chronosphere.io
