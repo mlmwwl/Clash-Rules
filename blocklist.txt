@@ -516,6 +516,7 @@ gsp85-cn-ssl.ls.apple.com
 +.volccdn.com
 +.kimi.com
 +.shein.com
++.ltwebstatic.com
 +.awads.cc
 +.edgeone.ai
 +.kwai.net
