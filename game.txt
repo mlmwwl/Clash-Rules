@@ -1,4 +1,4 @@
-+.#EpicGames,GOG
+#EpicGames,GOG
 
 +.3lateral.com
 +.artstation.com
