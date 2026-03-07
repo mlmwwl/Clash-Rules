@@ -444,3 +444,22 @@ pbc.wsj.com
 pblog.wsj.com
 tags.wsj.com
 trk.wsj.com
+
+
+#GOG
+galaxy-client-reports.gog.com
+galaxy-log.gog.com
+gog.qtlglb.com
++.gogalaxy.gog-statics.com
++.menu-static.gog-statics.com
++.productcard.gog-statics.com
++.static-login.gog-statics.com
++.www4-static.gog-statics.com
++.gog-cdn-fastly.gog.com
++.gog-cdn.akamaized.net
+
+#AP & Reuters
+apcdp.apnews.com
+analytics.apnewsregistry.com
+dd.reuters.com
+elections.ap.org
